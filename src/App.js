@@ -24,11 +24,11 @@ import neurologist from "./components/Specialization/Neurologist/Neurologist";
 import Oncologist from "./components/Specialization/Oncologist/Oncologist";
 import Psychiatrists from "./components/Specialization/Psychiatrists/Psychiatrists";
 import AddDoctors from "./components/Dashboard/DoctorsDashboard/AllDoctors/AddDoctors/AddDoctors";
-import PaymentForm from "./components/Share/PaymentForm/PaymentForm";
 import PrivateRoute from "./components/PrivateRoute/PrivateRoute";
 import Cart from "./components/Dashboard/Pharmacy/Cart/Cart";
 import History from "./components/Pages/History/History";
 import Success from "./components/Share/Payment/Validation/Success";
+import PaymentForm from "./components/Share/Payment/PaymentForm/PaymentForm";
 
 function App() {
   return (
